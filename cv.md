@@ -33,6 +33,7 @@
     </ul></li>
   <br>
   <br>
+  <br>
   <img src="https://github.com/Raccoonblitz/rsschool-cv/blob/gh-pages/logo_rs2.svg" width="20%" height="20%">
   
     
