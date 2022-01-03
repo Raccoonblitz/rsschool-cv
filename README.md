@@ -1,4 +1,6 @@
 # rsschool-cv
   https://raccoonblitz.github.io/rsschool-cv/
-  https://raccoonblitz.github.io/rsschool-cv/index
+  <br>
+  https://raccoonblitz.github.io/rsschool-cv/index.html
+  <br>
   https://raccoonblitz.github.io/rsschool-cv/
